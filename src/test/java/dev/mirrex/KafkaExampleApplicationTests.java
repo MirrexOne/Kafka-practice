@@ -1,4 +1,4 @@
-package dev.mirrex.kafkaexample;
+package dev.mirrex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
